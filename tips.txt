@@ -1,0 +1,9 @@
+ git add .                     缓存区
+ git commit -m "XXXX"        上传本地仓库
+ git checkout HEAD test_dds       回撤上次上传内容
+ git add tips.txt           缓存单个文件
+ git log       查看历史记录
+
+ git branch    显示所有本地分支
+ ls -a          找到目录下隐藏的 .git
+ rm -rf .git    删除 .git
